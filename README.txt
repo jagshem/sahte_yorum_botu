@@ -1,0 +1,1 @@
+Videoyu izlemeniz yeterlidir ancak server kısmına girip npm start yazmanız gerekmektedir. Bu işlemi yapmadan önce node.js kurmanız gerekmektedir. aynı zamanda client kısmına girip npm run dev yazmanız gerekmektedir. Vite'ın size yönlendirdiği linkten projeye ulaşabilirsiniz.
